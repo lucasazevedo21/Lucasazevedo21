@@ -1,10 +1,19 @@
 <h1 align="left">Lucas Azevedo</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasazevedo21&label=Profile%20views&color=0e75b6&style=flat" alt="lucasazevedo21" /> </p>
+<p> I'm a Brazilian, focused on being a fullstack developer. Technologist Degree in System Analysis and Development finishing at december 2022.</p>
 
-<h3 align="left">Learning:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h2 align="left">Learning</h2>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
 
 <p>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasazevedo21&layout=compact&theme=midnight-purple" alt="lucasazevedo21" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasazevedo21&theme=midnight-purple" alt="lucasazevedo21" />
+</p>
+
+<h2>Contact</h2>
+<p>
+  <a href="https://www.instagram.com/lucas21azevedo/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/lucas-azevedo21/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
