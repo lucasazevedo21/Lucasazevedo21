@@ -1,6 +1,6 @@
 <h1 align="left">Lucas Azevedo</h1>
 
-<p> I'm a Brazilian, focused on being a fullstack developer. Technologist Degree in System Analysis and Development finishing at december 2022.</p>
+<p> I'm a Brazilian, focused on being a full stack developer. Technologist Degree in System Analysis and Development finishing at december 2022.</p>
 
 <h2 align="left">Learning</h2>
 <p>
