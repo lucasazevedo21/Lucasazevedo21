@@ -9,7 +9,7 @@
 </p>
 
 <p>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasazevedo21&theme=radical" alt="lucasazevedo21" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasazevedo21&theme=dark" alt="lucasazevedo21" />
 </p>
 
 <h2 align="left">Learning</h2>
@@ -21,5 +21,5 @@
 <h2>Contact</h2>
 <div>
   <a href="https://www.instagram.com/lucas21azevedo/?hl=pt-br"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.linkedin.com/in/lucas-azevedo21/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+  <a href="https://www.linkedin.com/in/lucasazevedo21/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
 </div>
