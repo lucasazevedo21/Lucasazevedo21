@@ -9,7 +9,7 @@
 </p>
 
 <p>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasazevedo21&theme=dark" alt="lucasazevedo21" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasazevedo21" alt="lucasazevedo21" />
 </p>
 
 <h2 align="left">Learning</h2>
